@@ -110,6 +110,7 @@ public class GoldModel extends GameModel {
 			addCoin();
                         addCoin();
                         addCoin();
+
 		}
 	}
 
