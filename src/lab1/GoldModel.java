@@ -108,6 +108,8 @@ public class GoldModel extends GameModel {
 		// Insert coins into the gameboard.
 		for (int i = 0; i < COIN_START_AMOUNT; i++) {
 			addCoin();
+                        addCoin();
+                        
 		}
 	}
 
